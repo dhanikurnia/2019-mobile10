@@ -4,12 +4,13 @@
 	xmlns:tools="http://schemas.android.com/tools"
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
+	android:background="@color/biru"
 	tools:context=".MainActivity"
 	android:id="@+id/layout_main"
 	>
 
 	<Button
-		android:id="@+id/change_color"
+		android:id="@+id/ganti_warna"
 		app:layout_constraintLeft_toLeftOf="parent"
 		app:layout_constraintLeft_toRightOf="parent"
 		app:layout_constraintTop_toTopOf="parent"
